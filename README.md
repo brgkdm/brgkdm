@@ -1,5 +1,9 @@
 - [Türkçe](https://github.com/brgkdm/brgkdm/blob/main/README_TR.md) 
 - [English](https://github.com/brgkdm/brgkdm/edit/main/README.md)
+- [Français]
+- [Русский]
+- [Português]
+- [عربي]
 
 
 ## About Me
