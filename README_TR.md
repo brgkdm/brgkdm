@@ -1,3 +1,7 @@
+## Dil
+
+- [Türkçe](https://github.com/brgkdm/brgkdm/blob/main/README_TR.md)&nbsp; - [English](https://github.com/brgkdm/brgkdm/edit/main/README.md)&nbsp; - [Français](https://github.com/brgkdm/brgkdm/blob/main/README_FR.md)&nbsp; - [Русский](https://github.com/brgkdm/brgkdm/blob/main/README_RU.md)&nbsp; - [Português](https://github.com/brgkdm/brgkdm/blob/main/README_PTBR.md) -   [عربي](https://github.com/brgkdm/brgkdm/blob/main/README_AR.md)
+
 ##  Hakkımda
 - Eğer bir işten **keyif almıyorsam**, o işi bırakırım. Gerekirse, o işi keyifli bir hale getiririm.
 
