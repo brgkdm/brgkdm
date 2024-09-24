@@ -18,3 +18,8 @@
 
 ## Se você der um passo lógico, entre em contato comigo/
 - [Email](Mailto:beratgokkdemir@icloud.com) (Apenas)
+
+## O nosso canal da comunidade
+🌟 Porquê entrar no [Canal Discord](https://discord.gg/Fx2FA5guhZ)? 🌟
+
+Junte-se à nossa comunidade para se ligar a pessoas que pensam como você e que partilham os seus interesses! Quer esteja à procura de fazer novos amigos, participar em discussões envolventes ou obter insights sobre tópicos que adora, o nosso servidor tem algo para todos. Desfrute de eventos divertidos, conteúdos exclusivos e um ambiente acolhedor onde a sua voz é importante. Não perca, faça parte de algo incrível!
