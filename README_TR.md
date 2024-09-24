@@ -17,3 +17,8 @@
 
 ##  Mantıklı bir adım atarsanız, benimle iletişime geçin/
 - [Mail](Mailto:beratgokkdemir@icloud.com) (Sadece)
+
+## Topluluk Kanalımız
+🌟 Neden [Discord Kanalına](https://discord.gg/Fx2FA5guhZ) katılmalısınız? 🌟
+
+İlgi alanlarınızı paylaşan benzer düşünen kişilerle bağlantı kurmak için topluluğumuza katılın! İster yeni arkadaşlar edinmek, ister ilgi çekici tartışmalara katılmak veya sevdiğiniz konularda fikir edinmek isteyin, sunucumuzda herkese göre bir şeyler var. Eğlenceli etkinliklerin, özel içeriklerin ve sesinizin önemli olduğu misafirperver bir ortamın tadını çıkarın. Kaçırmayın—harika bir şeyin parçası olun!
