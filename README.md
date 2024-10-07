@@ -19,8 +19,3 @@
 
 ## If you would make a sensible move, like reaching out to me/
 [![Email](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratgokkdemir@icloud.com)
-
-## Our Community Channel
-Why Join [Discord Channel](https://discord.gg/Fx2FA5guhZ)?
-
-Join our community to connect with like-minded individuals who share your interests! Whether you’re looking to make new friends, participate in engaging discussions, or gain insights on topics you love, our server has something for everyone. Enjoy fun events, exclusive content, and a welcoming environment where your voice matters. Don't miss out—be part of something great!
