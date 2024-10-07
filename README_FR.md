@@ -18,8 +18,3 @@
 
 ## Si vous faites un pas logique, contactez-moi/
 [![Email](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratgokkdemir@icloud.com)
-
-## Notre chaîne communautaire
-Pourquoi rejoindre [Discord Channel](https://discord.gg/Fx2FA5guhZ) ? 
-
-Rejoignez notre communauté pour entrer en contact avec des personnes partageant les mêmes idées et les mêmes intérêts que vous ! Que vous cherchiez à vous faire de nouveaux amis, à participer à des discussions intéressantes ou à obtenir des informations sur des sujets que vous aimez, notre serveur a quelque chose à offrir à tout le monde. Profitez d'événements amusants, de contenus exclusifs et d'un environnement accueillant où votre voix compte. Ne manquez rien : faites partie de quelque chose de formidable !
