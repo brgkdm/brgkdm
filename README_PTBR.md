@@ -16,10 +16,6 @@
 [![GitHub](https://camo.githubusercontent.com/56e5afeef8eb7f60feb4248024b301677622c3c534d5981cafd9a4aa8ba877c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d776869746520616c743d676974687562207374796c653d)](https://github.com/brgkdm)
 ![VS Code + GitHub](https://img.shields.io/badge/VS_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=007ACC)
 ![Javascript](https://camo.githubusercontent.com/ad92f05d62a27fea23631590ce57aaa60cd268667d08e278d6683a082140fd22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d4a617661536372697074266c6f676f436f6c6f723d303030267374796c653d666f722d7468652d6261646765)
-
-## Se você der um passo lógico, entre em contato comigo/
-[![Email](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratgokkdemir@icloud.com)
-
 ## O nosso canal da comunidade
 Porquê entrar no [Canal Discord](https://discord.gg/Fx2FA5guhZ)? 
 
