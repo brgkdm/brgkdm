@@ -7,7 +7,7 @@
 - Se eu não estou **gostando** de um trabalho, eu o deixo. Se necessário, faço esse trabalho se tornar agradável.
 
 ## Educação
-- Sistemas de Informação de Gestão
+- Analista de cibersegurança
 
 ## Técnico
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
