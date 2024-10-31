@@ -6,7 +6,7 @@
 - إذا كنت لا **أستمتع** بعمل ما، سأتركه. إذا لزم الأمر، سأجعل هذا العمل ممتعًا.
 
 ## التعليم
-- نظم المعلومات الإدارية
+- محلل الأمن السيبراني
 
 ## تقني
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
