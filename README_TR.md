@@ -6,7 +6,7 @@
 - Eğer bir işten **keyif almıyorsam**, o işi bırakırım. Gerekirse, o işi keyifli bir hale getiririm.
 
 ##  Eğitim
-- Yönetim Bilişim Sistemleri
+- Siber Güvenlik Analisti
 
 ##  Teknik
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
