@@ -6,7 +6,7 @@
 - Si je n'aime pas un travail, je le quitte. Si nécessaire, je rends ce travail agréable.
 
 ## Éducation
-- Systèmes d'Information de Gestion
+- Analyste en cybersécurité
 
 ## Technique
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
