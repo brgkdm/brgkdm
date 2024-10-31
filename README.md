@@ -7,7 +7,7 @@
 - If I don’t **enjoy** a job, I quit it. If necessary, I turn that job into something pleasurable.
 
 ## Education
-- Management Information Systems
+- Cybersecurity Analyst
 
 ## Technic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
