@@ -36,5 +36,7 @@
 ![Veeam](https://img.shields.io/badge/Veeam-00CC00?style=for-the-badge&logo=veeam&logoColor=white)
 ![CyberArk](https://img.shields.io/badge/CyberArk-002855?style=for-the-badge&logo=cyberark&logoColor=white)
 
+![brgkdm's Stats](https://github-readme-stats.vercel.app/api?username=brgkdm&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+
 ## Если бы вы сделали разумный шаг, например, связались со мной/
 [![Email](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratgokkdemir@icloud.com)
