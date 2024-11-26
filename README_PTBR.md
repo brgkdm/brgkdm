@@ -40,4 +40,4 @@
 ![brgkdm's Stats](https://github-readme-stats.vercel.app/api?username=brgkdm&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
 ## Se fizer um movimento sensato, como contactar-me/
-[![E-mail](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratgokkdemir@icloud.com)
+[![Email](https://img.shields.io/badge/email-brgkdm%40proton.me-blue)](mailto:brgkdm@proton.me)
