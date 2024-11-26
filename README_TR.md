@@ -39,4 +39,4 @@
 ![brgkdm's Stats](https://github-readme-stats.vercel.app/api?username=brgkdm&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
 ## Bana ulaşmak gibi mantıklı bir hareket yaparsanız/
-[![E-posta](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratgokkdemir@icloud.com)
+[![E-Posta](https://img.shields.io/badge/email-brgkdm%40proton.me-blue)](mailto:brgkdm@proton.me)
