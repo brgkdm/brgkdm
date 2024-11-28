@@ -1,31 +1,26 @@
-name: Generate Snake Animation
+name: Generate Datas
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Her gün gece 12'de çalışacak
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"  # Her 12 saatte bir çalışacak
   workflow_dispatch:  # Manuel tetikleme için
 
 jobs:
   build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      # Depoyu çekmek
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
       # Yılan animasyonunu oluşturmak
-      - name: Generate Snake Animation
-        uses: Platane/snk@v2
+      - uses: Platane/snk@v2  # Platane/snk aksiyonunun v2 sürümünü kullanıyoruz
+        id: snake-gif
         with:
-          github_user_name: brgkdm  # GitHub kullanıcı adınız
+          github_user_name: leonardocremasco  # GitHub kullanıcı adınız
           entryPoint: dist/github-contribution-grid-snake.svg  # Çıktı dosyasının yolu
 
-      # Değişiklikleri commitlemek ve push etmek
-      - name: Commit and Push Snake Animation
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Updated Snake Animation"
-          git push
+      # GitHub Pages için sayfayı yayınlamak
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output  # Çıktıların gönderileceği hedef branch
+          build_dir: dist  # Dist klasörü
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GITHUB_TOKEN çevre değişkeni
