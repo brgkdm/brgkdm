@@ -2,26 +2,26 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Her gün gece 12'de çalışacak
+  workflow_dispatch:  # Manuel tetikleme için
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      
+      # Depoyu çekmek
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-     
+      # Yılan animasyonunu oluşturmak
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
-          github_user_name: brgkdm
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: brgkdm  # GitHub kullanıcı adınız
+          entryPoint: dist/github-contribution-grid-snake.svg  # Çıktı dosyasının yolu
 
-      
+      # Değişiklikleri commitlemek ve push etmek
       - name: Commit and Push Snake Animation
         run: |
           git config user.name "GitHub Actions"
