@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Her gün çalışacak
   workflow_dispatch:
 
 jobs:
@@ -16,12 +16,12 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: brgkdm
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: github-contribution-grid-snake.svg  # 'dist/' olmadan direkt olarak kaydet
 
       - name: Commit and Push Snake Animation
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dist/github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg  # 'dist/' olmadan
           git commit -m "Updated Snake Animation"
           git push
