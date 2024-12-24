@@ -1,3 +1,4 @@
+![Image](https://camo.githubusercontent.com/ab5687870591755d81eae1f4ea58b6ffacd7f12700a8ba862c2b54f3be33d403/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303061626630266865696768743d37302673656374696f6e3d686561646572)
 ## Dil
 
 - [Türkçe](https://github.com/brgkdm/brgkdm/blob/main/README_TR.md)&nbsp; - [English](https://github.com/brgkdm/brgkdm/edit/main/README.md)&nbsp; - [Français](https://github.com/brgkdm/brgkdm/blob/main/README_FR.md)&nbsp; - [Русский](https://github.com/brgkdm/brgkdm/blob/main/README_RU.md)&nbsp; - [Português](https://github.com/brgkdm/brgkdm/blob/main/README_PTBR.md) -   [عربي](https://github.com/brgkdm/brgkdm/blob/main/README_AR.md)
@@ -40,3 +41,4 @@
 
 ## Bana ulaşmak gibi mantıklı bir hareket yaparsanız/
 [![E-Posta](https://img.shields.io/badge/email-brgkdm%40proton.me-blue)](mailto:brgkdm@proton.me)
+![Image](https://camo.githubusercontent.com/e4a7b0b5b0297c8683dee1916620fb7f6315237605b2dce860138d3efe44a222/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303061626630266865696768743d37302673656374696f6e3d666f6f746572)
