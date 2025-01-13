@@ -39,6 +39,7 @@
 ![CyberArk](https://img.shields.io/badge/CyberArk-002855?style=for-the-badge&logo=cyberark&logoColor=white)
 
 ![brgkdm's Stats](https://github-readme-stats.vercel.app/api?username=brgkdm&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+[![roadmap.sh](https://roadmap.sh/card/tall/677d95fa70129741a816f3d7?variant=dark)](https://roadmap.sh)
 
 ## If you would make a sensible move, like reaching out to me/
 [![Email](https://img.shields.io/badge/email-brgkdm%40proton.me-blue)](mailto:brgkdm@proton.me)
