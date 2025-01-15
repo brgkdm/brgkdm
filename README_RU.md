@@ -40,5 +40,4 @@
 ![brgkdm's Stats](https://github-readme-stats.vercel.app/api?username=brgkdm&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
 ## Если бы вы сделали разумный шаг, например, связались со мной/
-[![Email](https://img.shields.io/badge/email-brgkdm%40proton.me-blue)](mailto:brgkdm@proton.me)
 ![Image](https://camo.githubusercontent.com/e4a7b0b5b0297c8683dee1916620fb7f6315237605b2dce860138d3efe44a222/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303061626630266865696768743d37302673656374696f6e3d666f6f746572)
